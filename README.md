@@ -12,4 +12,7 @@
 
 [计算机组成原理概论和总线](https://github.com/Areaper/MyBlog/issues/6)
 
-[Swift中处理JSON](https://github.com/Areaper/MyBlog/issues/8)
+[Swift中处理JSON](https://github.com/Areaper/MyBlog/issues/9)
+
+[计算机存储器](https://github.com/Areaper/MyBlog/issues/8)
+
